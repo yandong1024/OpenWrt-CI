@@ -3,7 +3,6 @@
 - 基于原版 OpenWrt
 - 集成 OpenClash
 - 集成简体中文
--
 
 **配置详情：**
 
@@ -28,4 +27,4 @@ Base System - dnsmasq（取消勾选）
 
 Network > Files Transfer > wget-ssl 
 Network > Files Transfer > wget-nossl 
-···
+```
